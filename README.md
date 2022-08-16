@@ -4,7 +4,7 @@ Following this steps you can build and use the image to create a Hadoop Single N
 
 # Pull the image
 
-     $ docker pull julienlau/hadoop-single-node-cluster:3.3.3
+     $ docker pull pepitedata/hadoop-single-node-cluster:3.3.3
 
 ## Creating the hadoop image
 
